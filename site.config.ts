@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'd65467fa75a14fe0bee5168cc2e1b9bf',
+  rootNotionPageId: 'PM-65de1ef7a1054da480716c34f44e43a9',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '忘川',
-  domain: 'https://sunmq.notion.site/d65467fa75a14fe0bee5168cc2e1b9bf',
+  domain: 'https://sunmq.notion.site/PM-65de1ef7a1054da480716c34f44e43a9',
   author: '家住忘川',
 
   // open graph metadata (optional)
